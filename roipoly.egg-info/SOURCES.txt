@@ -1,0 +1,8 @@
+setup.py
+roipoly/__init__.py
+roipoly/example.py
+roipoly/roipoly.py
+roipoly.egg-info/PKG-INFO
+roipoly.egg-info/SOURCES.txt
+roipoly.egg-info/dependency_links.txt
+roipoly.egg-info/top_level.txt
